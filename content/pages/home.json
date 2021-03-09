@@ -98,6 +98,11 @@
       ]
     },
     {
+      "_template": "demo",
+      "codeSandbox": "https://codesandbox.io/embed/tina-minimal-demo-bjh21?fontsize=14&hidenavigation=1&theme=dark",
+      "headline": "Simple Demo"
+    },
+    {
       "_template": "browser",
       "headline": "*Avoid Vendor Lock-In*",
       "subline": "",
