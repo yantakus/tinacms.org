@@ -100,7 +100,7 @@
     {
       "_template": "flying",
       "headline": "New to Tina?",
-      "subline": "Learn the basics of the development workflow",
+      "subline": "Learn the basics of the development workflow. Easily.",
       "actions": [
         {
           "variant": "orange",
